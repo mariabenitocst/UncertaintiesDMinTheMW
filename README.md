@@ -6,7 +6,7 @@ Here we make availabe the likelihood profile of the full data-driven analysis pr
 Benito et al. (in prep.) quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
 The input elements of our analysis are:
 * [galkin](https://github.com/galkintool/galkin) compilation for the observed RC of our Galaxy;
-* large array of observationally inferred three-dimensional density profiles;
+* large array of observationally inferred three-dimensional density profiles for each baryonic component (stellar bulge, stellar disc and interstellar gas);
 * DM halo described by a generalized Navarro-Frenk-White (gNFW) density profile.
 We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy.
 

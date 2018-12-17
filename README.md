@@ -2,7 +2,7 @@
 
 Here we make availabe the likelihood profile of the full data-driven analysis presented in Benito et al. (in prep.)
 
-### Brief description
+### Brief Description
 
 Benito et al. (in prep.) quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
 The input elements of our analysis are:

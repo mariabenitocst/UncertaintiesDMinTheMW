@@ -23,7 +23,9 @@ Further applications involve the interpation of results from local DM searches, 
 
 ### Citing
 
-If you use this material, please don't forget to cite Benito et al. (in prep.). Thanks :)
+If you use this material, please don't forget to cite Benito et al. (in prep.). 
+
+Thanks :)
 
 ### Contact Information
 

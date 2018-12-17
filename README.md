@@ -15,3 +15,9 @@ The full likelihood of our analysis is released in a tabulgar form over multidim
 
 
 If you use this material, please don't forget to cite Benito et al. (in prep.). Thanks :)
+
+Do not heasitate to contact one of us if there is any question related to this material. 
+Here is our contact information:
+* mariabenitocst@gmail.com
+* cuoco@physik.rwth-aachen.de
+* fabio.iocco.astro@gmail.com

@@ -21,7 +21,7 @@ The likelihood can be used to include the effect of uncertainties in the DM dist
 
 Further applications involve the interpation of results from local DM searches, like direct detection and anti-matter observations, or global fits combining local and GC searches.
 
-### Citing
+### Credit
 
 If you use this material, please don't forget to cite Benito et al. ([1901.02460](https://arxiv.org/abs/1901.02460)). 
 

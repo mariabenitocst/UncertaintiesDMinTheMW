@@ -1,4 +1,4 @@
-# Quantifying astrophysical uncertainties in the Galactic dark matter distribution 
+# Quantifying Astrophysical Uncertainties in the Galactic Dark Matter Distribution 
 
 Here we make availabe the likelihood profile of the full data-driven analysis presented in Benito et al. (in prep.)
 

@@ -1,10 +1,10 @@
-# Quantifying astrophysical uncertainties in the Galactic dark matter distribution 
+# Quantifying Astrophysical Uncertainties in the Galactic Dark Matter Distribution 
 
-Here we make availabe the likelihood profile of the full data-driven analysis presented in Benito et al. (in prep.)
+Here we make availabe the likelihood profile of the full data-driven analysis presented in Benito et al. ([1901.02460](https://arxiv.org/abs/1901.02460))
 
 ### Brief Description
 
-Benito et al. (in prep.) quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
+Benito et al. ([1901.02460](https://arxiv.org/abs/1901.02460)) quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
 The input elements of our analysis are:
 * [galkin](https://github.com/galkintool/galkin) compilation for the observed RC of our Galaxy;
 * large array of observationally inferred three-dimensional density profiles for each baryonic component (stellar bulge, stellar disc and interstellar gas);
@@ -21,9 +21,9 @@ The likelihood can be used to include the effect of uncertainties in the DM dist
 
 Further applications involve the interpation of results from local DM searches, like direct detection and anti-matter observations, or global fits combining local and GC searches.
 
-### Citing
+### Credit
 
-If you use this material, please don't forget to cite Benito et al. (in prep.). 
+If you use this material, please don't forget to cite Benito et al. ([1901.02460](https://arxiv.org/abs/1901.02460)). 
 
 Thanks :)
 

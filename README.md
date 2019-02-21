@@ -13,7 +13,7 @@ The input elements of our analysis are:
 We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy. You can find a complete description of the analysis in Benito et al. (in prep.).
 
 
-The full likelihood of our analysis is released in a tabular form (**4dgrid_gammaXX.dat**) over multidimensional grid in the parameters characterizing the DM distribution, namely the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's galactocentric distance R0.
+The full likelihood of our analysis is released in tabular form (**data/4dgrid_gammaXX.dat**) over multidimensional grid in the parameters characterizing the DM distribution, namely the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's galactocentric distance R0.
 
 ### Applications
 

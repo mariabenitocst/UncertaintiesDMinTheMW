@@ -1,10 +1,10 @@
 # Quantifying Astrophysical Uncertainties in the Galactic Dark Matter Distribution 
 
-Here we make availabe the likelihood profile of the full data-driven analysis presented in Benito et al. ([1901.02460](https://arxiv.org/abs/1901.02460))
+Here we make availabe the likelihood profile of the full data-driven analysis presented in Benito et al. ([1901.02460](https://arxiv.org/abs/1901.02460), [published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033))
 
 ### Brief Description
 
-Benito et al. ([1901.02460](https://arxiv.org/abs/1901.02460)) quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
+Benito et al. ([1901.02460](https://arxiv.org/abs/1901.02460), [published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)) quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
 The input elements of our analysis are:
 * [galkin](https://github.com/galkintool/galkin) compilation for the observed RC of our Galaxy;
 * large array of observationally inferred three-dimensional density profiles for each baryonic component (stellar bulge, stellar disc and interstellar gas);
@@ -23,7 +23,7 @@ Further applications involve the interpation of results from local DM searches, 
 
 ### Credit
 
-If you use this material, please don't forget to cite Benito et al. ([1901.02460](https://arxiv.org/abs/1901.02460)). 
+If you use this material, please don't forget to cite [Benito et al.](https://doi.org/10.1088/1475-7516/2019/03/033). Please cite in bundle with [1](https://iopscience.iop.org/article/10.1088/1475-7516/2015/12/001) and [2](https://iopscience.iop.org/article/10.1088/1475-7516/2018/06/E01). 
 
 Thanks :)
 

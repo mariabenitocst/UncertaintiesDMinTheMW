@@ -10,7 +10,7 @@ The input elements of our analysis are:
 * large array of observationally inferred three-dimensional density profiles for each baryonic component (stellar bulge, stellar disc and interstellar gas);
 * DM halo described by a generalized Navarro-Frenk-White (gNFW) density profile.
 
-We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2019] (https://arxiv.org/abs/1901.02460).
+We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2019](https://arxiv.org/abs/1901.02460).
 
 
 The full likelihood of our analysis is released in tabular form (**data/4dgrid_gammaXX.dat**) over multidimensional grid in the parameters characterizing the DM distribution, namely the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's galactocentric distance R0.

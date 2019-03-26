@@ -23,7 +23,7 @@ Further applications involve the interpation of results from local DM searches, 
 
 ### Credit
 
-If you use this material, please don't forget to cite [Benito et al.](https://doi.org/10.1088/1475-7516/2019/03/033). Please cite in bundle with [1](https://iopscience.iop.org/article/10.1088/1475-7516/2015/12/001) and [2](https://iopscience.iop.org/article/10.1088/1475-7516/2018/06/E01). 
+If you use this material, please don't forget to cite [Benito et al](https://doi.org/10.1088/1475-7516/2019/03/033). Please cite in bundle with [1](https://iopscience.iop.org/article/10.1088/1475-7516/2015/12/001) and [2](https://iopscience.iop.org/article/10.1088/1475-7516/2018/06/E01). 
 
 Thanks :)
 

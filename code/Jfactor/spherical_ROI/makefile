@@ -4,7 +4,7 @@ LDIR =/usr/local/lib
 current_dir = $(shell pwd)
 CFLAGS = -Wall -ansi -O3 -I$(IDIR) -I$(current_dir)/../include/ -c 
 LFLAGS = -L$(LDIR) -lm  -lcuba -lgsl -lgslcblas
-theta  = 1.
+theta  = 0.35
 
 
 all: Jfactor

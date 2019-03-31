@@ -15,6 +15,8 @@ We perform a full marginalization over uncertainties on the Galactic parameters 
 
 The full likelihood of our analysis is released in tabular form (**data/4dgrid_gammaXX.dat**) over multidimensional grid in the parameters characterizing the DM distribution, namely the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's galactocentric distance R0.
 
+In the **code** folder, you can find some useful code for computing the $\mathcal{J}$-factor at the Galactic centre for a spherical region of interest.
+
 ### Applications
 
 The likelihood can be used to include the effect of uncertainties in the DM distribution in the MW while interpreting results of searches for an indirect DM signal in gamma-rays or neutrinos, from the Galactic center (GC), or the halo region surrounding it.

@@ -3,7 +3,7 @@
 ## J-factor
 
 The Jfactor folder contains the c++ code for computing the J-factor at 
-a given ROI (spherical/rectangular) centred at the Galactic centre (GC) at each point of the likelihood profile table
+a given ROI (spherical/rectangular) centered at the Galactic center (GC) at each point of the likelihood profile table
 given in **data/4dgrid_gammaXX.dat**.
 
 

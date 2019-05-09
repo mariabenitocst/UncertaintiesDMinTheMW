@@ -13,7 +13,11 @@ The input elements of our analysis are:
 We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2019](https://arxiv.org/abs/1901.02460).
 
 
-The full likelihood of our analysis is released in tabular form (**data/4dgrid_gammaXX.dat**) over multidimensional grid in the parameters characterizing the DM distribution, namely the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's galactocentric distance R0.
+The full likelihood of our analysis is released in tabular form (in the **data** folder) over multidimensional grid in the parameters characterizing the DM distribution, namely:
+* the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's galactocentric distance R0 for the gNFW density profile.
+* The scale radius Rs, the scale density ρs, the inner slope of the profile α and the Sun's galactocentric distance R0 for the Einasto density profile.
+* And the core radius Rc, central density ρc and the Sun's galactocentric distance R0 for the Burkert density profile.
+
 
 In the **code** folder, you can find some useful code for computing the J-factor at the Galactic centre for a spherical region of interest.
 

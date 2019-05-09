@@ -8,7 +8,7 @@ Benito et al. 2019 ([1901.02460](https://arxiv.org/abs/1901.02460), [published i
 The input elements of our analysis are:
 * [galkin](https://github.com/galkintool/galkin) compilation for the observed RC of our Galaxy;
 * large array of observationally inferred three-dimensional density profiles for each baryonic component (stellar bulge, stellar disc and interstellar gas);
-* DM halo described by a generalized Navarro-Frenk-White (gNFW) density profile.
+* DM halo described by a generalized Navarro-Frenk-White (gNFW), Einasto or Burkert density profile.
 
 We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2019](https://arxiv.org/abs/1901.02460).
 

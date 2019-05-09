@@ -1,6 +1,6 @@
 # Quantifying Astrophysical Uncertainties in the Galactic Dark Matter Distribution 
 
-Here we make availabe the likelihood profile of the full data-driven analysis presented in Benito et al. 2019 ([1901.02460](https://arxiv.org/abs/1901.02460), [published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033))
+Here we make available the likelihood profile of the full data-driven analysis presented in Benito et al. 2019 ([1901.02460](https://arxiv.org/abs/1901.02460), [published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033))
 
 ### Brief Description
 

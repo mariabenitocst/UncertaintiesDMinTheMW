@@ -37,7 +37,7 @@ void jfactorgrid_fixed_gamma(double gamma,
     string line;
     // Chi2 marginalised over baryonic morphology for each R0
     std::ostringstream filename;
-    filename << "../../../data/"
+    filename << "../../../data/gNFW/"
              << "4dgrid_gamma" << ("%.1f", gamma) << ".dat";
     std::fstream in(filename.str().c_str(), ios::in);
     if (in.is_open())

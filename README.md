@@ -1,18 +1,18 @@
 # Quantifying Astrophysical Uncertainties in the Galactic Dark Matter Distribution 
 
 Here we make available the likelihood profile of the full data-driven analysis presented in 
-[Benito et al. 2020](arXiv:XXXX.XXXX). This analysis is an update of our previous analysis presented in [Benito et al. 2019](https://arxiv.org/abs/1901.02460) ([published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)), and it is motivated by recent new determinations of astrophysical quantities of relevance from the GRAVITY collaboration and the Gais satellite.
+[Benito et al. 2020](arXiv:XXXX.XXXX). This analysis is an update of our previous results presented in [Benito et al. 2019](https://arxiv.org/abs/1901.02460) ([published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)), and it is motivated by recent new determinations of astrophysical quantities of relevance from the GRAVITY collaboration and the GAIA satellite.
 
 ### Brief Description
 
 Benito et al. 2020 quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
 The input elements of our analysis are:
 * [galkin](https://github.com/galkintool/galkin) compilation for the observed RC of our Galaxy;
-* latest (AD 2020) constraints on the Sun's galactocentric distance and its circular velocity from the GRAVITY collaboration and the Gaia satellite;
+* latest (AD 2020) constraints on the Sun's galactocentric distance and its circular velocity from the GRAVITY collaboration and the GAIA satellite;
 * large array of observationally inferred three-dimensional density profiles for each baryonic component of the Galaxy(stellar bulge, stellar disc and interstellar gas);
 * DM halo described by a generalized Navarro-Frenk-White (gNFW), Einasto or Burkert density profile.
 
-We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2020](arXiv:XXXX.XXXX) and [Benito et al. 2019](https://arxiv.org/abs/1901.02460), [published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)).
+We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2020](arXiv:XXXX.XXXX) and [Benito et al. 2019](https://arxiv.org/abs/1901.02460), [published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033).
 
 ### Content
 

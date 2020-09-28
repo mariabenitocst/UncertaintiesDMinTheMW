@@ -1,23 +1,27 @@
 # Quantifying Astrophysical Uncertainties in the Galactic Dark Matter Distribution 
 
-Here we make available the likelihood profile of the full data-driven analysis presented in Benito et al. 2019 ([1901.02460](https://arxiv.org/abs/1901.02460), [published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033))
+Here we make available the likelihood profile of the full data-driven analysis presented in 
+[Benito et al. 2020](arXiv:XXXX.XXXX). This analysis is an update of our previous analysis presented in [Benito et al. 2019](https://arxiv.org/abs/1901.02460) ([published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)), and it is motivated by recent new determinations of astrophysical quantities of relevance from the GRAVITY collaboration and the Gais satellite.
 
 ### Brief Description
 
-Benito et al. 2019 ([1901.02460](https://arxiv.org/abs/1901.02460), [published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)) quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
+Benito et al. 2020 quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
 The input elements of our analysis are:
 * [galkin](https://github.com/galkintool/galkin) compilation for the observed RC of our Galaxy;
-* large array of observationally inferred three-dimensional density profiles for each baryonic component (stellar bulge, stellar disc and interstellar gas);
+* latest (AD 2020) constraints on the Sun's galactocentric distance and its circular velocity from the GRAVITY collaboration and the Gaia satellite;
+* large array of observationally inferred three-dimensional density profiles for each baryonic component of the Galaxy(stellar bulge, stellar disc and interstellar gas);
 * DM halo described by a generalized Navarro-Frenk-White (gNFW), Einasto or Burkert density profile.
 
-We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2019](https://arxiv.org/abs/1901.02460).
+We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2020](arXiv:XXXX.XXXX) and [Benito et al. 2019](https://arxiv.org/abs/1901.02460), [published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)).
 
 ### Content
 
 The full likelihood of our analysis is released in tabular form (in the **data** folder) over multidimensional grid in the parameters characterizing the DM distribution, namely:
-* the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's galactocentric distance R0 for the gNFW density profile.
-* The scale radius Rs, the scale density ρs, the inner slope of the profile α and the Sun's galactocentric distance R0 for the Einasto density profile.
-* And the core radius Rc, central density ρc and the Sun's galactocentric distance R0 for the Burkert density profile.
+* the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's circular velocity V0 for the gNFW density profile.
+* The scale radius Rs, the scale density ρs, the inner slope of the profile α and the Sun's circular velocity V0 for the Einasto density profile.
+* And the core radius Rc, central density ρc and the Sun's circular velocity V0 for the Burkert density profile.
+
+In the **data** folder, you can further find the full likelihood obtained in [Benito et al. 2019](https://arxiv.org/abs/1901.02460).
 
 
 In the **code** folder, you can find some useful code for computing the J-factor at the Galactic centre for a spherical region of interest.
@@ -30,7 +34,7 @@ Further applications involve the interpation of results from local DM searches, 
 
 ### Credit
 
-If you use this material, please don't forget to cite [Benito et al. 2019](https://doi.org/10.1088/1475-7516/2019/03/033). Please cite in bundle with [Pato et al. 2015](https://iopscience.iop.org/article/10.1088/1475-7516/2015/12/001) and [Benito et al. 2017](https://iopscience.iop.org/article/10.1088/1475-7516/2017/02/007/meta). 
+If you use this material, please don't forget to cite [Benito et al. 2020](arXiv:XXXX.XXXX) and [Benito et al. 2019](https://doi.org/10.1088/1475-7516/2019/03/033). Please cite in bundle with [Pato et al. 2015](https://iopscience.iop.org/article/10.1088/1475-7516/2015/12/001) and [Benito et al. 2017](https://iopscience.iop.org/article/10.1088/1475-7516/2017/02/007/meta). 
 
 Thanks :)
 

@@ -17,9 +17,9 @@ We perform a full marginalization over uncertainties on the Galactic parameters 
 ### Content
 
 The full likelihood of our analysis is released in tabular form (in the **data** folder) in a multidimensional grid in the parameters characterizing the DM distribution, namely:
-* the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's circular velocity V0 <u>for the gNFW density profile</u>.
-* The scale radius Rs, the scale density ρs, the inner slope of the profile α and the Sun's circular velocity V0 <u>for the Einasto density profile</u>.
-* And the core radius Rc, central density ρc and the Sun's circular velocity V0 <u>for the Burkert density profile</u>.
+* the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's circular velocity V0 *for the gNFW density profile*.
+* The scale radius Rs, the scale density ρs, the inner slope of the profile α and the Sun's circular velocity V0 *for the Einasto density profile*.
+* And the core radius Rc, central density ρc and the Sun's circular velocity V0 *for the Burkert density profile*.
 
 In the **data** folder, you can further find the full likelihood obtained in [Benito et al. 2019](https://arxiv.org/abs/1901.02460).
 

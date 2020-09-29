@@ -44,4 +44,4 @@ Do not heasitate to contact one of us if there is any question related to this m
 Here is our contact information:
 * mariabenitocst@gmail.com
 * cuoco@physik.rwth-aachen.de
-* fabio.iocco.astro@gmail.com
+* fabio.iocco.unina@gmail.com

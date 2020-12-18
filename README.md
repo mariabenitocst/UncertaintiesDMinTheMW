@@ -20,6 +20,7 @@ The full likelihood of our analysis is released in tabular form (in the **data**
 * the scale radius Rs, the scale density ρs, the inner slope of the profile γ and the Sun's circular velocity V0 *for the gNFW density profile*.
 * The scale radius Rs, the scale density ρs, the inner slope of the profile α and the Sun's circular velocity V0 *for the Einasto density profile*.
 * And the core radius Rc, central density ρc and the Sun's circular velocity V0 *for the Burkert density profile*.
+The chi2 statistics has 18 (= 25 data points - 7 fitting parameters) degrees of freedom.
 
 In the **data** folder, you can further find the full likelihood obtained in [Benito et al. 2019](https://arxiv.org/abs/1901.02460).
 

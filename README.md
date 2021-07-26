@@ -1,7 +1,7 @@
 # Quantifying Astrophysical Uncertainties in the Galactic Dark Matter Distribution 
 
 Here we make available the likelihood profile of the data-driven analysis presented in 
-[Benito et al. 2020](https://arxiv.org/abs/2009.13523). This analysis is an update of our previous results presented in [Benito et al. 2019](https://arxiv.org/abs/1901.02460) ([published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)), and it is motivated by recent determinations of Galactic parameters (namely Sun's galactocentric distance and circular velocity) from the [GRAVITY collaboration](https://arxiv.org/abs/1904.05721) and the [GAIA satellite](https://iopscience.iop.org/article/10.3847/1538-4357/aaf648).
+[Benito et al. 2020](https://arxiv.org/abs/2009.13523) ([published in PDU](https://doi.org/10.1016/j.dark.2021.100826)). This analysis is an update of our previous results presented in [Benito et al. 2019](https://arxiv.org/abs/1901.02460) ([published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)), and it is motivated by recent determinations of Galactic parameters (namely Sun's galactocentric distance and circular velocity) from the [GRAVITY collaboration](https://arxiv.org/abs/1904.05721) and the [GAIA satellite](https://iopscience.iop.org/article/10.3847/1538-4357/aaf648).
 
 ### Brief Description
 

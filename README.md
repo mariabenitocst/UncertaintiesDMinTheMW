@@ -1,18 +1,18 @@
 # Quantifying Astrophysical Uncertainties in the Galactic Dark Matter Distribution 
 
 Here we make available the likelihood profile of the data-driven analysis presented in 
-[Benito et al. 2020](arXiv:XXXX.XXXX). This analysis is an update of our previous results presented in [Benito et al. 2019](https://arxiv.org/abs/1901.02460) ([published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)), and it is motivated by recent determinations of Galactic parameters (namely Sun's galactocentric distance and circular velocity) from the [GRAVITY collaboration](https://arxiv.org/abs/1904.05721) and the [GAIA satellite](https://iopscience.iop.org/article/10.3847/1538-4357/aaf648).
+[Benito et al. 2020](https://arxiv.org/abs/2009.13523). This analysis is an update of our previous results presented in [Benito et al. 2019](https://arxiv.org/abs/1901.02460) ([published in JCAP](https://doi.org/10.1088/1475-7516/2019/03/033)), and it is motivated by recent determinations of Galactic parameters (namely Sun's galactocentric distance and circular velocity) from the [GRAVITY collaboration](https://arxiv.org/abs/1904.05721) and the [GAIA satellite](https://iopscience.iop.org/article/10.3847/1538-4357/aaf648).
 
 ### Brief Description
 
-Benito et al. 2020 quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
+[Benito et al. 2020](https://arxiv.org/abs/2009.13523) quantifies astrophysical uncertainties that affect the determination of the distribution of dark matter (DM) in the Milky Way (MW) by means of the rotation curve (RC) method.
 The input elements of our analysis are:
 * [galkin](https://github.com/galkintool/galkin) compilation for the observed RC of our Galaxy;
 * latest (AD 2020) constraints on the Sun's galactocentric distance and its circular velocity from the [GRAVITY collaboration](https://arxiv.org/abs/1904.05721) and the [GAIA satellite](https://iopscience.iop.org/article/10.3847/1538-4357/aaf648);
 * large array of observationally inferred three-dimensional density profiles for each baryonic component of the Galaxy (stellar bulge, stellar disc and interstellar gas);
 * DM halo described by a generalized Navarro-Frenk-White (gNFW), Einasto or Burkert density profile.
 
-We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology and content of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2020](arXiv:XXXX.XXXX) and [Benito et al. 2019](https://arxiv.org/abs/1901.02460).
+We perform a full marginalization over uncertainties on the Galactic parameters and over the lack of knowledge on the morphology and content of the baryonic components of the Galaxy. You can find a complete description of the analysis in [Benito et al. 2020](https://arxiv.org/abs/2009.13523) and [Benito et al. 2019](https://arxiv.org/abs/1901.02460).
 
 ### Content
 
@@ -34,7 +34,7 @@ Further applications involve the interpation of results from local DM searches, 
 
 ### Credit
 
-If you use this material, please don't forget to cite [Benito et al. 2020](arXiv:XXXX.XXXX) and [Benito et al. 2019](https://doi.org/10.1088/1475-7516/2019/03/033). Please cite in bundle with [Pato et al. 2015](https://iopscience.iop.org/article/10.1088/1475-7516/2015/12/001) and [Benito et al. 2017](https://iopscience.iop.org/article/10.1088/1475-7516/2017/02/007/meta). 
+If you use this material, please don't forget to cite [Benito et al. 2020](https://arxiv.org/abs/2009.13523) and [Benito et al. 2019](https://doi.org/10.1088/1475-7516/2019/03/033). Please cite in bundle with [Pato et al. 2015](https://iopscience.iop.org/article/10.1088/1475-7516/2015/12/001) and [Benito et al. 2017](https://iopscience.iop.org/article/10.1088/1475-7516/2017/02/007/meta). 
 
 Thanks :)
 
@@ -42,6 +42,6 @@ Thanks :)
 
 Do not heasitate to contact one of us if there is any question related to this material. 
 Here is our contact information:
-* mariabenitocst@gmail.com
-* cuoco@physik.rwth-aachen.de
-* fabio.iocco.unina@gmail.com
+* mariabenitocstATgmail.com
+* alessandro.cuocoATunito.it 
+* fabio.iocco.astroATgmail.com
